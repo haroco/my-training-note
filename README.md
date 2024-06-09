@@ -3,6 +3,7 @@
 |Column     |Type       |Options         |
 |-----------|-----------|----------------|
 |name       |string     |null: false     |
+|encrypted_password|string|null:false    |
 
 
 
